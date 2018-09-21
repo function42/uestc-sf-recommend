@@ -1,7 +1,5 @@
 # uestc-sf-recommend
 
-recommend books or something else
-
 首先，欢迎加入本社！
 
 其次，本库存在的意义是保存本社（电子科技大学科幻协会）的推荐书籍。
